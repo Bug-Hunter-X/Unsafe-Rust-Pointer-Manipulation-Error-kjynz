@@ -1,0 +1,1 @@
+This repository demonstrates an example of unsafe Rust code where direct pointer manipulation leads to undefined behavior due to ownership and memory management issues. The provided solution illustrates how to mitigate the risk by carefully handling ownership and lifetimes.
